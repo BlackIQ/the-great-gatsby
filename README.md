@@ -19,4 +19,4 @@
 - [Chapter 8](/Chapter-8)
 - [Chapter 9](/Chapter-9)
 
-[How to contribute?](contribute.md)
+[How to contribute?](/CONTRIBUTE.md)
