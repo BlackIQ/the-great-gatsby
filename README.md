@@ -1,4 +1,4 @@
-# The Great Gatsby Novel
+# The Great Gatsby
 
 **The Great Gatsby** open-source novel By **F. Scott Fitzgerald**.
 
